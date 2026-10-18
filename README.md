@@ -1,6 +1,6 @@
 # Yvan Mbouguia
 
-Étudiant en Master 2 Économie du Développement au [CERDI](https://cerdi.uca.fr/) (Clermont-Ferrand) avec un fort intéret pour  la fiscalité dans les pays en développement, la vulnérabilité macroéconomique et la mobilisation des ressources domestiques.
+Étudiant en Master 2 Économie du Développement à l'école d'économie-[CERDI](https://cerdi.uca.fr/) (Clermont-Ferrand) avec avec des bases solides en techniques quantitatives et économetrie appliquée.
 
 ## Recherche
 
