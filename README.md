@@ -1,6 +1,6 @@
 # Yvan Mbouguia
 
-Étudiant en Master 2 Économie du Développement à l'école d'économie-[CERDI](https://cerdi.uca.fr/) (Clermont-Ferrand) avec des bases solides en techniques quantitatives et économetrie appliquée.
+Étudiant en Master 2 Économie du Développement à l'école d'économie-[CERDI](https://cerdi.uca.fr/) (Clermont-Ferrand) parcours Analyse économique du développement, avec des bases solides en techniques quantitatives et économetrie appliquée.
 
 ## Recherche
 
