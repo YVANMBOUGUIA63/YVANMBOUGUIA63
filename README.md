@@ -4,9 +4,7 @@
 
 ## Recherche
 
-Mon mémoire de M2 porte sur l'engagement dans l'application du tarif extérieur commun et la vulnérabilité des recettes fiscales aux chocs de prix des importations dans la zone franc CFA. J'utilise une méthode de double différence sur les pays de la zone franc et un contrôle synthétique, sur la période 2000-2022. L'analyse s'appuie sur l'écart entre tarifs appliqués et tarifs théoriques du TEC.
-
-Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvreté, politique publique, commerce international, politique régionale, harmonisation fiscale.
+Axes thématiques : fiscalité et mobilisation des ressources domestiques, politique publique, dette structurelle, commerce international, politique régionale, harmonisation fiscale.
 
 ## Compétences techniques
 
