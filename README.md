@@ -20,9 +20,9 @@ Axes thématiques : fiscalité et mobilisation des ressources domestiques, polit
 
 ## Parcours
 
-- M2 Économie du Développement — CERDI, Université Clermont Auvergne (2025-2026)
-- M1 Économie du Développement — CERDI, Université Clermont Auvergne (2024-2025)
-- Licence Économie du Développement — Université Clermont Auvergne (2021-2024)
+- M2 Économie du Développement — CERDI, Université Clermont Auvergne (2026-2027)
+- M1 Économie du Développement — CERDI, Université Clermont Auvergne (2025-2026)
+- Licence Économie du Développement — Université Clermont Auvergne (2024-2025)
 - Contrat civique — Département du Puy-de-Dôme, pôle éducation, patrimoine et habitat
 
 ## Distinctions
