@@ -14,7 +14,7 @@ Axes thématiques : fiscalité et mobilisation des ressources domestiques, polit
 
 **Évaluation et gestion de projets** : évaluation d'impact de politiques publiques, cadre logique, étude de faisabilité, plan de financement, suivi-évaluation
 
-**Logiciels** : Stata, R (tidyverse), EViews, Python (pandas, numpy, matplotlib), SQL, Power BI, SPSS, Excel, Zotero
+**Logiciels** : Stata, R , EViews, Python (pandas, seaborn ,numpy, matplotlib), SQL, Power BI, SPSS, Excel, Zotero
 
 **Certifications** : Google Advanced Data Analytics · Microsoft Power BI Data Analyst · IBM Data Science · Analyse d'impact par RCT (Banque mondiale) · Croissance économique (FMI) · Sciences comportementales dans les services publics (Banque mondiale)
 
