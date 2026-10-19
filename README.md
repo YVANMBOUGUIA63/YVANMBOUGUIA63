@@ -45,6 +45,10 @@ Conception, administration et analyse d'une enquête sur les pratiques de mobili
 Analyse de la volatilité des cours de huit matières premières (2000-2023) et de son impact sur les recettes fiscales de dix pays d'Afrique subsaharienne. Pipeline SQL + Python, tableau de bord Power BI.
 **Outils** : SQL (SQLite) · Python · Power BI
 
+### [Présence des militaires en politique et croissance économique](projets/militaires-politique-croissance/)
+Analyse de l'effet de la présence des militaires en politique sur la croissance économique, 217 pays (1995-2023). Indice ICRG, diagnostics des moindres carrés ordinaires, estimation par variables instrumentales pour corriger l'endogénéité.
+**Outils** : EViews
+
 ### [Rénovation énergétique — Puy-de-Dôme](projets/rapport-stage-renovation-energetique/)
 Mission de volontariat en service civique au sein de Rénov'actions 63. Sensibilisation à la précarité énergétique, analyse du non-recours aux aides publiques à la rénovation de l'habitat.
 
